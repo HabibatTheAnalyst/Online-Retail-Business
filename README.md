@@ -4,3 +4,5 @@ This project contains the orders placed online at a retail business. It represen
 
 This project aimed to dive deep into the dataset to bring insights for the business to make strategic business decisions.
 The dataset was subjected to the ETL process. SSIS Package was used to create two conditional splits to transform the dataset. After which, SQL Server Management Studio was used to access the database, retrieve, manipulate and derive insights from the data. Power BI was then used to visualize.
+
+Dashboard - https://app.powerbi.com/groups/me/reports/35defb42-1f21-4499-96ae-ecc99545ce8f/ReportSection
